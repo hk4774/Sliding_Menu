@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sliding Menu</string>
+    <string name="action_setting">Settings</string>
+
+    <string-array name="brands">
+        <item>Facebook</item>
+        <item>Google+</item>
+        <item>LinkedIn</item>
+    </string-array>
+
+    <array name="icons">
+        <item>@drawable/fb</item>
+        <item>@drawable/gp</item>
+        <item>@drawable/lin</item>
+    </array>
+</resources>
